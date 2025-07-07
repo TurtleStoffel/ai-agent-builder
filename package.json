@@ -1,0 +1,16 @@
+{
+  "name": "ai-agent-builder",
+  "version": "0.0.1",
+  "description": "Library to help building AI Agents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LLM",
+    "Agents"
+  ],
+  "author": "TurtleStoffel",
+  "repository": "https://github.com/TurtleStoffel/ai-agent-builder.git",
+  "license": "MIT"
+}
