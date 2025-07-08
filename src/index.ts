@@ -1,4 +1,6 @@
 export * from "./tool-registry";
+export * from "./llm";
+export * from "./start-task";
 
 export interface LLMToolParameter {
   name: string;
