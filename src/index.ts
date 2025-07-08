@@ -1,3 +1,5 @@
+export * from "./tool-registry";
+
 export interface LLMToolParameter {
   name: string;
   description: string;
