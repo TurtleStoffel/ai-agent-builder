@@ -1,9 +1,7 @@
-# ai-agent-builder
-Library to help build AI Agents for Large Language Models
+# 🤖 AI Agent Builder
+Many AI Agents are based on tool calling, where the agent uses a large language model (LLM) to decide which tools to call and how to use them. This package exposes several types and utility functions to help you build such agents.
 
 ## Exposed Types and Functions
-
-This package exposes several types and utility functions to help you build and register tools for LLM-based agents:
 
 ### Tool Registry
 - `registerLLMTool(tool: LLMTool)`: Register a new tool for use by the agent.
